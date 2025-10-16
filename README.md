@@ -112,10 +112,10 @@ java scc
 Run with input file:
 java scc < input.txt
 
-Option B: Run with inline input (for quick testing)
+### Option B: Run with inline input (for quick testing)
 echo -e "3\n3\n0 1\n1 2\n2 0" | java scc
 
-Option C: Run on the ECU csstu server
+### Option C: Run on the ECU csstu server
 
 1. Upload your files (scc.java, README.md) to the server (using scp or editing directly).
 
